@@ -51,14 +51,3 @@ Compartments (tank pressures) are created automatically.
 Pressures on external hull (or any other generic location) is defined by specifying equations.
 
 You can optimize cylinders, single plate/stiffener field or multiple. Geometry of double bottom can be optimized.
-
-PLEASE CONTRIBUTE. REPORT BUGS ERRORS ETC.
-For windows executable (.exe) version for non-coders, use the link below.
-
-Feedback: audunarn@gmail.com or discuss on github.
-
-Please like, share or comment on LinkedIn: https://www.linkedin.com/in/audun-arnesen-nyhus-6aa17118/
-
-Screenshot (this example can be loaded from file "ship_section_example.txt"):
-
-![picture](https://docs.google.com/uc?id=1HJeT50bNJTLJbcHTfRke4iySV8zNOAl_)
